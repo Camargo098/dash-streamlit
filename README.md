@@ -1,9 +1,9 @@
-# 📊 Dash Streamlit – Dashboard Interativo com Streamlit e Plotly
+# 📊 Dash Streamlit – Dashboard Interativo com Streamlit e Plotly #
 
 Este projeto foi desenvolvido como parte final de um conteúdo publicado no Medium, onde resumi os principais conceitos necessários para **dominar o Streamlit**.  
 A proposta é mostrar, de forma prática, como construir um **dashboard interativo e responsivo** utilizando **Streamlit**, **Pandas** e **Plotly**.
 O contedo pode se acessado pelo link: 
-[Medium](URL do Link](https://medium.com/@robsoncamargo098/construindo-dashboards-interativos-com-streamlit-um-guia-pr%C3%A1tico-031bcf9421db)
+[Medium](https://medium.com/@robsoncamargo098/construindo-dashboards-interativos-com-streamlit-um-guia-pr%C3%A1tico-031bcf9421db)
 ---
 
 ## 🚀 Sobre o Projeto
